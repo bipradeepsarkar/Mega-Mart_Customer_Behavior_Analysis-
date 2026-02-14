@@ -1,2 +1,2 @@
 # Mega-Mart_Customer_Behavior_Analysis-
-Data analytics portfolio project on mega mart showing sales and revenue analysis using python, SQL and Power BI.
+Data analytics portfolio project on Mega Mart Customer Behavior showcasing sales and revenue insights using python, SQL and Power BI.
